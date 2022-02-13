@@ -86,7 +86,7 @@ like a switch board it'll help you find mistakes and fix them faster and will re
 
 # Environment Variables
 
-## Sometimes when we store secret keys we should always store them in a sperate file to avoid data theft and also those keys are not even stored into repos by [.gitignore]
+## Sometimes when we store secret keys we should always store them in a seperate file to avoid data theft and also those keys are not even stored into repos by [.gitignore]
 
 
 ![dotenv](https://user-images.githubusercontent.com/34340232/153737071-64d8e7b1-a790-45c2-b62b-80d40d2630d3.png)
