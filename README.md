@@ -52,7 +52,7 @@ like a switch board it'll help you find mistakes and fix them faster and will re
 
 ![hashing-function-structure](https://user-images.githubusercontent.com/34340232/153736919-85e25d43-9b98-4101-8bda-7992ec543d68.png)
 
-##npm package
+## npm package
 
 ![npm MD5 Hashing](https://user-images.githubusercontent.com/34340232/153736904-e6d6bac0-43a9-437e-8f2c-3163519be130.png)
 
