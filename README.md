@@ -1,11 +1,11 @@
 # Web-Security-Node.js
-in this repo i have covered 6 levels of websecurity using Node.JS and Google APIs
 
-I wish i could write alot of what web security is being defined about nowadays but i would strongly recommend you guys to go over the documentations of all of them,
-i have made presentations from Level 1 to 6 covering most of the factual and technical and logical parts of the Project and have also considered that i had to make one repository
-instead of 6 repos for each level,Why you may ask, well in my opinion its better to deal with the same Project with old security paches commented out so you can go through the 
-presentation that i am about to show you so that from there you can have an idea and use the documentations to your advantage to uncomment and also read the intructions 
-like a switch board it'll help you find mistakes and fix them faster and will result in more practicing but again thats just my own opinion.
+## In this repo i have covered 6 levels of websecurity using Node.JS and Google APIs
+
+## I wish i could write alot of what web security is being defined about nowadays but i would strongly recommend you guys to go over the documentations of all of them,
+ i have made presentations from Level 1 to 6 covering most of the factual and technical and logical parts of the Project and have also considered that i had to make one 
+repository instead of 6 repos for each level,Why you may ask, well in my opinion its better to deal with the same Project with old security paches commented out so you can go through the presentation that i am about to show you so that from there you can have an idea and use the documentations to your advantage to uncomment and also read the intructions 
+like a switch board it'll help you find mistakes and fix them faster and will result in more practicing but again thats just my own opinion. ##
 
 # Level One - Plain Text Passwords
 
