@@ -100,6 +100,8 @@ repository instead of 6 repos for each level,Why you may ask, well in my opinion
 
 # Level Five - Cookies and Sessions
 
+## We use Passports [https://www.passportjs.org/]
+
 ![61c2e4a03dbcc29dc3c3d01c_618255c28b041fcecefe9ab1_fp4483y9b (1)](https://user-images.githubusercontent.com/34340232/153737184-0f511791-502c-44e5-b9f2-096a9cbd0af6.jpeg)
 
 ![npm passportlocal](https://user-images.githubusercontent.com/34340232/153737188-1d76fc22-e343-4454-bcf9-9e307b2fea02.png)
@@ -117,12 +119,6 @@ repository instead of 6 repos for each level,Why you may ask, well in my opinion
 ![le code3](https://user-images.githubusercontent.com/34340232/153737204-06cd6e49-3bc3-4946-9b51-e83bcb798d2f.png)
 
 ![le code4](https://user-images.githubusercontent.com/34340232/153737206-ebd167e0-9efe-40b0-b74f-1c04ac2641da.png)
-
-## We use Passports [https://www.passportjs.org/]
-
-![61c2e4a03dbcc29dc3c3d01c_618255c28b041fcecefe9ab1_fp4483y9b (1)](https://user-images.githubusercontent.com/34340232/153737212-5d192af4-5ccc-445c-9031-661cacd7b2f5.jpeg)
-
-![npm passport](https://user-images.githubusercontent.com/34340232/153737230-ba7d66a1-c769-4570-8607-199d7191d7f9.png)
 
 ## Data Salted & Hashed
 
